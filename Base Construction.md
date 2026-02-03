@@ -13,6 +13,6 @@ This is the link for the part: https://www.homedepot.com/p/NDS-PVC-S-D-Cap-4-in-
 
 I then designed a 2 mm tall 106 mm circular plate that would mount on top of the motor shaft so I could attach the rest of the arm on top easily.
 
-![YBVL8695 1](https://github.com/user-attachments/assets/fd1c4581-c0bf-4be1-b364-28e364afd117)
+<img src="https://github.com/user-attachments/assets/fd1c4581-c0bf-4be1-b364-28e364afd117" width="300" />
 
-![IMG_1263 1](https://github.com/user-attachments/assets/c1866c4b-9751-417f-b661-64e094327c68)
+<img src="https://github.com/user-attachments/assets/c1866c4b-9751-417f-b661-64e094327c68" width="300" /> 

@@ -9,5 +9,5 @@ I used hotglue to keep everything in place and mounted rubber frictioners at the
 
 This is the link for the part: https://www.homedepot.com/p/NDS-PVC-S-D-Cap-4-in-4P06/100172701
 
-<img width="357" height="215" alt="Image" src="https://github.com/user-attachments/assets/ecd7d64d-75ef-4421-90f7-b0e5dccd4e5a" />
+<img width="357" height="357" alt="Image" src="https://github.com/user-attachments/assets/ecd7d64d-75ef-4421-90f7-b0e5dccd4e5a" />
 

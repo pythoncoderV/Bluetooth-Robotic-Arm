@@ -13,7 +13,7 @@ This is the link for the part: https://www.homedepot.com/p/NDS-PVC-S-D-Cap-4-in-
 <img width="400" height="357" alt="Image" src="https://github.com/user-attachments/assets/ecd7d64d-75ef-4421-90f7-b0e5dccd4e5a" />
 
 I then designed a 2 mm tall 106 mm diameter circular plate that would be mounted on to the servo motor shaft with super glue so I could attach the rest of the arm on top easily.
-CAD Model: <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/533bec1d-e415-41b8-823b-daf96bae5168" />
+CAD Model: <img width="870" height="700" alt="image" src="https://github.com/user-attachments/assets/533bec1d-e415-41b8-823b-daf96bae5168" />
 
 
 

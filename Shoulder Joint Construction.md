@@ -10,4 +10,4 @@ end panel + beginning panel were parallel again. To do this I took the same 45 d
 <img width="450" height="320" alt="Screenshot 2026-02-04 200415" src="https://github.com/user-attachments/assets/85f5dee4-5f6b-4cdc-b25d-be3711914766" />
 <img width="500" height="350" alt="Screenshot 2026-02-04 200542" src="https://github.com/user-attachments/assets/2ca714b1-efcb-41d2-9164-f5f55c7dff57" />
 
-![EJND6280 1](https://github.com/user-attachments/assets/31ff6542-d24f-4459-8862-0189932099ea)
+<img src="https://github.com/user-attachments/assets/31ff6542-d24f-4459-8862-0189932099ea" width="300" height="auto" alt="EJND6280 1">

@@ -14,5 +14,6 @@ being used up.
 Through the testing of the motors, I realized that since I added a 45 degree slope at the end of 4-Bar linkage, I had to add one at the top so they would cross out and the 
 end panel + beginning panel were parallel again. I then took the same 45 degree slope I 3d-printede before and superglued it to the top. 
 
-<img width="774" height="443" alt="Screenshot 2026-02-04 200542" src="https://github.com/user-attachments/assets/2ca714b1-efcb-41d2-9164-f5f55c7dff57" />
-<img width="655" height="521" alt="Screenshot 2026-02-04 200415" src="https://github.com/user-attachments/assets/85f5dee4-5f6b-4cdc-b25d-be3711914766" />
+
+<img width="400" height="300" alt="Screenshot 2026-02-04 200415" src="https://github.com/user-attachments/assets/85f5dee4-5f6b-4cdc-b25d-be3711914766" />
+<img width="500" height="350" alt="Screenshot 2026-02-04 200542" src="https://github.com/user-attachments/assets/2ca714b1-efcb-41d2-9164-f5f55c7dff57" />

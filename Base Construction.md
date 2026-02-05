@@ -1,11 +1,11 @@
 BASE CONSTRUCTION:
 
-The part of the project was to develop the base of the robotic arm where the wiring components would go and where the base rotation would commence.
+This part of the project was to develop the base of the robotic arm where the wiring components would go and where the base rotation would commence.
 For this I wanted to use a circular hollow cylindrical piece to house the first base rotation MG996R motor. The diameter for this base was going to 
 be about 100 mm so it wouldn't look to big as well as so it could able to hold the servo motor conveniently. I did not want to 3d print this piece 
 due to time issues so I went to home depot to later purchase a PVC circular topless piece that was 106 mm in diameter. I then took my first MG996R 
-servo and mounted it to the base of the cyclinder along with poles to the edge so when I later put a platform on top of the motor to rotate, so it will be supported well.
-I used hotglue to keep everything in place and mounted rubber frictioners at the base so it won't have too much play. I used a fit-in enclosure for the MG996R by measuring 
+servo and mounted it to the base of the cyclinder along with poles to the edge so when I later put a platform on top of the motor to rotate, it will be supported well.
+I used hotglue to keep everything in place and mounted rubber frictioners at the base so it won't move around too much. I used a fit-in enclosure for the MG996R by measuring 
 the dimensions and mounted it on the PVC base after 3d-printing.
 
 This is the link for the part: https://www.homedepot.com/p/NDS-PVC-S-D-Cap-4-in-4P06/100172701

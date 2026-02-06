@@ -12,7 +12,7 @@ beginning panel + end panel were parallel again. To do this I took the same 45 d
 
 <img src="https://github.com/user-attachments/assets/31ff6542-d24f-4459-8862-0189932099ea" width="300" height="500" alt="EJND6280 1">
 
-After supergluing the Shoulder Joint to the Base(I added a rubber band for strength testing the MG996R and 2 servos on the top for the later constructed wrist joint:
+After supergluing the Shoulder Joint to the Base(I added a rubber band for strength testing the MG996R and 2 servos on the top for the later constructed wrist joint + I printed covering pieces in silk blue PLA to make the arm look nicer):
 
 <img src="https://github.com/user-attachments/assets/ca5c01d0-f46e-4556-a436-ee367bcd89e1" width="30%" alt="MIBL0343 1">
 

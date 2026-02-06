@@ -14,8 +14,8 @@ Link: thingiverse.com/thing:5145361
 Pictures for the stepper motor design #2 on the robotic arm along with the gripper from later: 
 
 <img src="https://github.com/user-attachments/assets/afe47898-ca04-483e-b984-eb0172f3c60b" width="300">
+<img src="https://github.com/user-attachments/assets/34176abb-5626-4b88-872c-f8c1ac456451" width="300">
 
-<img src="https://github.com" width="300">
 
 This is the final design as well as the motor:
 

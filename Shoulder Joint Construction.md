@@ -14,5 +14,5 @@ beginning panel + end panel were parallel again. To do this I took the same 45 d
 
 After supergluing the Shoulder Joint to the Base(I added a rubber band for strength testing the MG996R and 2 servos on the top for the later constructed wrist joint:
 
-![MIBL0343 1](https://github.com/user-attachments/assets/ca5c01d0-f46e-4556-a436-ee367bcd89e1)
+<img src="https://github.com/user-attachments/assets/ca5c01d0-f46e-4556-a436-ee367bcd89e1" width="30%" alt="MIBL0343 1">
 

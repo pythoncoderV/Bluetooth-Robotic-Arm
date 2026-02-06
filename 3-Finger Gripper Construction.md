@@ -13,9 +13,12 @@ side with a normal un-reflected gear. I soon got to work designing the chamber f
 around it(un-reflected). I designed this by taking a pre-made file on printables.com. The printables.com file was a fidget toy design that had a chamber and 2 hellical gears in it that
 already rotated on vertical axis. I then had to duplicate the chamber 3 times so I could create a traingular shape where 3 gears could fit perpendicularly. I made sure that the inner 
 rotating gear was meshing all 3 of the hellical gears so that when the inner hellical gear rotates, all 3 of the outer ones rotate too moving the fingers in and out/ up and down. I 
-designed poles with the right tolerences to keep the hellical gears in place while they could still rotate.
+designed poles with the right tolerences to keep the hellical gears in place while they could still rotate. 
 
 <img width="880" height="438" alt="Screenshot 2026-02-05 205540" src="https://github.com/user-attachments/assets/3614c17a-d5cd-44fd-b794-e9d415c5869d" />
-<img width="880" height="438" alt="Screenshot 2026-02-05 205540" src="https://github.com/user-attachments/assets/3614c17a-d5cd-44fd-b794-e9d415c5869d" />
+
+I then took each of the 3 hellical gears on the outer radius of the chamber and attached beams to the or "finger" with curves on the tops so that they could grip circular objects better.
+The next thing i had to think of was where and how I was going to mount the motor. 
+
 
 

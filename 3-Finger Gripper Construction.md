@@ -17,8 +17,6 @@ I mounted the motor in this orientation so that I could attach another reflected
 
 This is the final 3d-printed structure: 
 
-![NVFB4504 1](https://github.com/user-attachments/assets/ae34661d-1fa6-4081-96ae-29116d812684)
-
 <img width="400" alt="NVFB4504 1" src="https://github.com/user-attachments/assets/ae34661d-1fa6-4081-96ae-29116d812684" /> 
 <img width="400" alt="HTRB3598 1" src="https://github.com/user-attachments/assets/40804bc7-5069-4936-bbdc-c3b29de78732" /> 
 

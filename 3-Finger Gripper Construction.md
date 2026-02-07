@@ -32,7 +32,7 @@ do is add height to the center of the sg90's helical gear to it can mesh with th
 was able to superglue the heightened gear to the sg90 shaft and it was able to perfectly mesh with the inner rotaating gear of the chamber. This is what the gear looked like after 
 being heightened and how it looked in the final construction:
 
-<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/14569f94-dcf1-44b3-9ae8-c3ea8b871733" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/14569f94-dcf1-44b3-9ae8-c3ea8b871733" />
 
 
 

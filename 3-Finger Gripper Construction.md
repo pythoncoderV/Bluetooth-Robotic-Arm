@@ -28,7 +28,13 @@ inner rotating gear in the chamber of the gripper. Since a reflected gear would 
 perpendicularly, but side by side. The only problem was when I tried to attach the reflected helical gear on the sg90 motor shaft, the hole of the gear did not reach the shaft
 due to the height offset. In the design, the chamber is the enclosure around the inner rotating gear meaning the bottom of the gear and the top is covvered to keep that inner gear 
 in place. Because of that, the helical gear will not mesh with the inner rotating gear nor attach to the sg90 servo becuase of the chamber. This is easy to fix because all I have to
-do is add height to the center of the sg90's helical gear to it can mesh with the inner rotating gear of the chamber. Once I added height 
+do is add height to the center of the sg90's helical gear to it can mesh with the inner rotating gear of the chamber. Once I added height to the sg90's helical gear, I 
+was able to superglue the heightened gear to the sg90 shaft and it was able to perfectly mesh with the inner rotaating gear of the chamber. This is what the gear looked like after 
+being heightened and how it looked in the final construction:
+
+<img width="150" height="120" alt="image" src="https://github.com/user-attachments/assets/14569f94-dcf1-44b3-9ae8-c3ea8b871733" />
+
+
 
 
 

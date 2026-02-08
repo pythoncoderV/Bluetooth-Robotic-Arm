@@ -6,9 +6,9 @@ it look polished. I was able to find a pre-made model on thingiverse-com of a jo
 
 Link for joystick remote case: https://www.thingiverse.com/thing:3384973/files 
 
-<img width="563" height="507" alt="Screenshot 2026-02-07 231420" src="https://github.com/user-attachments/assets/dc498109-f0a3-4d5d-8617-660931f7df14" />
+<img width="463" height="407" alt="Screenshot 2026-02-07 231420" src="https://github.com/user-attachments/assets/dc498109-f0a3-4d5d-8617-660931f7df14" />
 
-<img width="748" height="432" alt="Screenshot 2026-02-07 231347" src="https://github.com/user-attachments/assets/3b6b8853-1f1b-4a1b-a8bc-4d9598d8141f" />
+<img width="648" height="332" alt="Screenshot 2026-02-07 231347" src="https://github.com/user-attachments/assets/3b6b8853-1f1b-4a1b-a8bc-4d9598d8141f" />
 
 I then printed the case in white with inspiration from WII controllers. After printing I fit the ESP-WROOM-32 microcontroller along with the joystick into their respective potions
 and the battery. The on and off switch was placed outside of the case for easy-access through a pre-made hole to my coincidence. After placing all the components I tried to fit the 

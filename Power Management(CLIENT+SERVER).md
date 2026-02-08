@@ -23,4 +23,4 @@ The client uses an ESP-WROOM-32 microcontroller, a 5 pin 2 axis(x,y) Push Button
 ESP-WROOM-32's 5V(VIN) pin and the GND pin. Before this though, I tried using a 1.5V 2400mAh battery but this turned out unfortunately. When I connected the battery 
 through the 3.3V pin of the ESP-WROOM-32 and the GND pin, the joystick seemed as if it had stopped working and the servo output was not produced.  I replaced it after
 that and I got the correct results after. Due to the low # of mA in the LiPo battery(300mA), I will have to charge it every now and then for the remote to transmit a
-stable signal for the arm for motion. 
+stable signal for the arms motion. 

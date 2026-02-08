@@ -10,7 +10,9 @@ and power of the ESP-WROOM-32 so one power source would power everything. The PC
 current needed for the server arm, I need to find the current each component takes and find the sum (not counting stall current). 
 
 2x MG996R (Running): 500mA – 900mA each. Total: ~1.0A - 1.8A so taking the maximum: ~1.8A
+
 1x SG90 (Running). Total: ~100mA – 250mA so taking the maximum: ~250mA
+
 1x A330 (Running). Total: ~100mA – 300mA so taking the maximum: ~300mA
 
 Final total Current supply needed: 1800mA + 250mA + 300mA = 2350mA:  I will use a 6V 3A power supply to be safe.

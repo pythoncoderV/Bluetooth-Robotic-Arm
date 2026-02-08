@@ -10,6 +10,6 @@ In the CAD model I added two deep holes in the arc-cut rectangle. This was becau
 in that area so the center of gravity would shift to my advantage. To fit the PCA9685, I used hotglue and the poles pre-printed for stability, and to attach the whole case, I hotglued
 the arc-cut rectangle to the PVC circular base of the arm. For the Arduino Mega/ESP32 enclosure, I mounted the ESP32 on a breadboard and due to a standard bread-board having the same
 width as an Arduino Mega, the ESP32 on breadboard fit perfectly, without the use of hotglue. The bread-board was also useful due to the fact that in the KiCAD wiring all grounds had to
-be common so the bread-board power rails came in handy. I finished the board management of the server/arm so now I had to move to the joystick remote/client.
+be common so the bread-board power rails came in handy.
 
 

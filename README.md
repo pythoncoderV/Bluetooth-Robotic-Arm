@@ -6,4 +6,4 @@ objects. The system uses four servo motors to drive the rotating base, shoulder 
 channels. There are two main parts of the project, the physical robotic arm(SERVER), and the remote controller that sends controls to the server(CLIENT). 
 The server side consists of an ESP-WROOM-32 microcontroller, a PCA9685, 4 servo motors (2x MG996R, 1x SG90, 1x Spektrum A330) and the whole operating 
 arm powered by a 6V 3A power supply. The client side consists of another ESP-WROOM-32 microcontroller and an x/y axis push button joystick powered 
-by a 3.7V 300mAh LiPo Battery. The server side reads the joystick analog output and converts it into motion for each of the servos. 
+by a 3.7V 300mA LiPo Battery. The server side reads the joystick analog output and converts it into motion for each of the servos. 

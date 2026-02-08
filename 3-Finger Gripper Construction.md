@@ -4,7 +4,11 @@ This part of the project would be responsible for picking things up and putting 
 
 <img width="880" height="438" alt="Screenshot 2026-02-05 205540" src="https://github.com/user-attachments/assets/3614c17a-d5cd-44fd-b794-e9d415c5869d" />
 
-I then took each of the 3 helical gears on the outer radius of the chamber and attached beams to them or "fingers" with curves on the tops so that they could grip circular objects better. The next thing I had to think of was where and how I was going to mount the motor. I could not mount the SG90 motor shaft directly to the inner helical gear because of the chamber enclosing the helical gear. My idea was to use an SG90 servo pre-made motor case/enclosure
+I then took each of the 3 helical gears on the outer radius of the chamber and attached beams to them or "fingers" with curves on the tops so that they could grip circular objects better. The next thing I had to think of was where and how I was going to mount the motor. I could not mount the SG90 motor shaft directly to the inner helical gear because of the chamber enclosing the helical gear. My idea was to use an SG90 servo pre-made motor case/enclosure on thingiverse;
+
+Link to the enclosure of the A330/SG90 servo motor (I only took the servo barrier stl. file): thingiverse.com/thing:2451583/files#google_vignette
+
+, and then mount that on the bottom of the base like this:
 
 <img width="542" height="476" alt="image" src="https://github.com/user-attachments/assets/6dae5d78-e36f-4ed4-a432-d5af714433cc" />
 

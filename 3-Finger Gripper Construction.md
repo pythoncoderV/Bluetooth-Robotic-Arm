@@ -13,9 +13,9 @@ I mounted the motor in this orientation so that I could attach another reflected
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/14569f94-dcf1-44b3-9ae8-c3ea8b871733" />
 
 <img width="428" height="362" alt="Screenshot 2026-02-06 203706" src="https://github.com/user-attachments/assets/1e9ef835-1d8f-4116-8cd0-999b7be6427d" />
-<img width="485" height="436" alt="Screenshot 2026-02-06 203643" src="https://github.com/user-attachments/assets/4283c3a4-943d-41a1-8aba-8398560349db" />
+<img width="485" height="436" alt="Screenshot 2026-02-06 203643" src="https://github.com/user-attachments/assets/4283c3a4-943D-41a1-8aba-8398560349db" />
 
-This is the final 3d-printed structure although I reprinted some of the parts in black due to minor issues like stringing, etc:
+This is the final 3D-printed structure although I reprinted some of the parts in black due to minor issues like stringing, etc:
 
 <img width="300" alt="NVFB4504 1" src="https://github.com/user-attachments/assets/ae34661d-1fa6-4081-96ae-29116d812684" /> 
 <img width="300" alt="HTRB3598 1" src="https://github.com/user-attachments/assets/40804bc7-5069-4936-bbdc-c3b29de78732" /> 

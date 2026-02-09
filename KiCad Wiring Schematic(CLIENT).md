@@ -4,7 +4,7 @@ This is the wiring schematic I used to wire all the components for the client/jo
 I realized there was no perfectly accurate KiCad symbol that fit the physical 5 pin 2-axis(x,y) Joystick module on SnapEDA, EasyEDA or anywhere else in the 
 reach of the Internet. I then tried to create my own accurate Joystick Symbol for the schematic through the symbol creator/editor accessory:
 
-<img width="396" height="351" alt="image" src="https://github.com/user-attachments/assets/d03aa0de-62c2-4e03-9c46-8fb37cc2d2f4" />
+<img width="405" height="333" alt="image" src="https://github.com/user-attachments/assets/6b50aa2a-b744-4911-b248-70851079d67d" />
 
 After finsihing the symbol, I uploaded it into the full schematic to have complete wiring for the Joystick Remote/client:
 

@@ -1,1 +1,50 @@
 This code is for uploading to the client ESP32-DEVKITC-32U microcontroller through Arduino IDE:
+
+I took this code from pre-made examples on the ARDUINO IDE app as well as AI guidance. The code operates the wireless joystick controller 
+that communicates with the server robotic arm through Bluetooth. The ESP32 client reads the joystick's X-axis position and button state, 
+then wirelessly transmits this data to the server ESP32-DEVKITC-32U microcontroller. If the Bluetooth connection is lost, the client 
+continues attempting to reconnect. 
+___________________________________________________________________________________________________________________________________________
+
+#include "BluetoothSerial.h"
+
+BluetoothSerial SerialBT;
+
+const int VRx = 34;   // Joystick X-axis
+const int SW = 32;    // Joystick button
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(SW, INPUT_PULLUP);
+  
+  SerialBT.begin("RobotMaster");
+  
+  Serial.println("Master Controller Ready");
+  Serial.println("Waiting for slave...");
+}
+
+void loop() {
+  // Read joystick (scale to 0-1023 range)
+  int xVal = analogRead(VRx);
+  int xScaled = map(xVal, 0, 4095, 0, 1023);
+  
+  // Read button
+  int buttonState = digitalRead(SW);
+  
+  // Send data
+  if (SerialBT.hasClient()) {
+    SerialBT.print(xScaled);
+    SerialBT.print(",");
+    SerialBT.print(buttonState);
+    SerialBT.print("\n");
+    
+    Serial.print("VRx: ");
+    Serial.print(xScaled);
+    Serial.print(" | Button: ");
+    Serial.println(buttonState == HIGH ? "Released" : "PRESSED");
+  } else {
+    Serial.println("Waiting for connection...");
+  }
+  
+  delay(15);
+}

@@ -1,4 +1,4 @@
-CODE:
+This code is for uploading to the server ESP32-DEVKITC-32U microcontroller through Arduino IDE:
 
 This code uses Bluetooth to wirelessly control a 4-servo robotic arm. Four channels (servos 0-3) are switched by the joystick button. 
 After the fourth servo, the button is pressed to return to the first. The position of the active servo is gradually changed by moving the 

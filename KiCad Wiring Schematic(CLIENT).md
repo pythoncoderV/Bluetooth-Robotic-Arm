@@ -1,3 +1,5 @@
+WIRING(CLIENT):
+
 This is the wiring schematic I used to wire all the components for the client/joystick wireless remote portion of the project. While creating this schematic, 
 I realized there was no perfectly accurate KiCad symbol that fit the physical 5 pin 2-axis(x,y) Joystick module on SnapEDA, EasyEDA or anywhere else in the 
 reach of the Internet. I then tried to create my own accurate Joystick Symbol for the schematic through the symbol creator/editor accessory:

@@ -6,7 +6,7 @@ reach of the Internet. I then tried to create my own accurate Joystick Symbol fo
 
 After finsihing the symbol, I uploaded it into the full schematic to have complete wiring for the Joystick Remote/client:
 
-<img width="618" height="438" alt="Screenshot 2026-02-08 173813" src="https://github.com/user-attachments/assets/4295658c-6d5d-4f28-a809-917b080af8f2" />
+<img width="718" height="538" alt="Screenshot 2026-02-08 173813" src="https://github.com/user-attachments/assets/4295658c-6d5d-4f28-a809-917b080af8f2" />
 
 
 

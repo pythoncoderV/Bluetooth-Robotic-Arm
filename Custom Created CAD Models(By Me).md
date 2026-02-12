@@ -9,4 +9,3 @@ Shoulder Construction CAD Model for 3D-printing: https://www.tinkercad.com/thing
 
 SERVER/Arm Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/jFY7OoK0D5L-case-fr-serverarm
 
-CLIENT/Joystick Remote Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/i5cvhJYxiae-joystick-remote-caseclient

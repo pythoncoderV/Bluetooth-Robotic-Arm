@@ -1,6 +1,7 @@
 WIRING(SERVER):
 
 This is the wiring schematic I used to wire all the components for the server/robotic arm portion of the project (It's a bit messy):
+
 (For the ESP32 shown in the schematic, it's using the wrong board but the pins are the exact same as the ESP-WROOM-32 I used for the
 project)
 

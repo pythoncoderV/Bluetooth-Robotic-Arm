@@ -1,10 +1,10 @@
-This code is for uploading to the client ESP32-DEVKITC-32U microcontroller through Arduino IDE:
+This code is for uploading to the client ESP-WROOM-32 microcontroller through Arduino IDE:
 
 I took this code from pre-made examples on the ARDUINO IDE app as well as AI guidance. The code operates the wireless joystick controller 
 that communicates with the server robotic arm through Bluetooth. The ESP32 client reads the joystick's X-axis position and button state, 
-then wirelessly transmits this data to the server ESP32-DEVKITC-32U microcontroller. If the Bluetooth connection is lost, the client 
-continues attempting to reconnect. Upload this code into the SERVER ESP32-DEVKITC-32U microcontroller at the same time you upload the 
-ClIENT ESP32-DEVKITC-32U microcontroller code for a stable connection.
+then wirelessly transmits this data to the server ESP-WROOM-32 microcontroller. If the Bluetooth connection is lost, the client 
+continues attempting to reconnect. Upload this code into the SERVER ESP-WROOM-32 microcontroller at the same time you upload the 
+ClIENT ESP-WROOM-32 microcontroller code for a stable connection.
 ___________________________________________________________________________________________________________________________________________
 
 #include "BluetoothSerial.h"

@@ -1,7 +1,7 @@
 # HDTS Robotic Arm
 
 This project is a Bluetooth robotic arm, also known as the “Hoc Diu Tempus Sumpsit.”. It is a 3D-printed, Bluetooth-controlled, 4-Bar linkage robotic arm powered 
-by 2 ESP-WROOM-32's. The arm features four axes of rotation, a wireless remote controller, and a three-finger helical-gear gripper designed for grasping circular 
+by 2 ESP-WROOM-32's. The arm features three axes of rotation, a wireless remote controller, and a three-finger helical-gear gripper designed for grasping circular 
 objects. The system uses four servo motors to drive the rotating base, shoulder joint, wrist joint, and gripper controlled by a joystick remote that switches 
 channels for each servo. There are two main parts of the project, the physical robotic arm(SERVER), and the remote controller that sends controls to the server(CLIENT). 
 The server side consists of an ESP-WROOM-32 microcontroller, a PCA9685, 4 servo motors (2x MG996R, 1x SG90, 1x Spektrum A330) and the whole operating 

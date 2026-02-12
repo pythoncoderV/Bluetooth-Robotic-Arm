@@ -1,16 +1,16 @@
 This code is for uploading to the server ESP-WROOM-32 microcontroller through Arduino IDE:
 
 I took this code from pre-made examples on the ARDUINO IDE app as well as AI guidance. This code uses Bluetooth to wirelessly control 
-a 4-servo robotic arm. Four channels (servos 0-3) are switched by the joystick button. After the fourth servo, the button is pressed 
+a 4-servo robotic arm. Four channels (servos 0-3) are switched by the joystick button. After the fourth servo, the button is pressed. 
 to return to the first. The position of the active servo is gradually changed by moving the joystick to the left or right. The angle is
 increased when pushing right and decreased when pushing left. The servo does not return to the starting position when the joystick reaches
 the center; instead, it maintains its previous position. Various movement speeds are used by the system. While servo 3 (the SG90 gripper) 
 moves quickly (speed = 8) for quick grabbing, servos 0, 1, and 2 move slowly for accuracy (speed = 2). To keep it from rotating too much, 
-each servo has position limits. The gripper uses a smaller 102-512 range for improved grip control, while servos 0-2 operate within a 
+Each servo has position limits. The gripper uses a smaller 102-512 range for improved grip control, while servos 0-2 operate within a 
 150-600 pulse range. Through Bluetooth, the ESP-WROOM-32 continuously receives joystick data from the client joystick remote. After 
 identifying the active channel, it applies the proper speed and limits, computes the new position using the joystick's direction, 
 and then transmits PWM signals to the PCA9685 driver board. The chosen servo is physically moved by this board. Upload this code into
-the SERVER ESP-WROOM-32 microcontroller at the same time you upload the ClIENT ESP-WROOM-32 microcontroller code for a stable 
+the SERVER ESP-WROOM-32 microcontroller at the same time you upload the CLIENT ESP-WROOM-32 microcontroller code for a stable 
 connection.
 ___________________________________________________________________________________________________________________________________________________
 

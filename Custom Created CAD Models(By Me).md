@@ -12,3 +12,5 @@ SERVER/Arm Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/
 Modified but taken from Thingiverse (I modified the top cover to add more space inside(Refer to Board Management + Enclosure(CLIENT).md)):
 
 CLIENT/Joystick Remote Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/i5cvhJYxiae-joystick-remote-caseclient
+
+All TPU created models (3-finger gripper pockets + ): https://www.tinkercad.com/things/7bJXujVLc1D-tpu-models-for-grip

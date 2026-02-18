@@ -6,10 +6,9 @@ additional grip. I started by using extra rubber sheets I had lying around. The 
 I was also unable to make the custom elastic support pieces I wanted out of the rubber sheet. TPU filament was the later solution as I would be able to design the custom
 parts in CAD, and print them on my Ender 3 3D-printer easily. The printed parts would be very precise, so I started printing. The main challenge was adjusting my Ultimaker 
 CURA slicer settings. I had been using normal PLA filament throughout the project, but now with TPU, I needed to change the settings. TPU required higher temperatures and 
-better quality settings. After adjusting the TPU, I went to create the CAD models for the parts needed to print. The first part to design were the pieces of TPU that would
-go on the bottom of the robotic arm to keep it in place. I just designed two cylinders at height 1mm and cut each of them into halves to get 4 pieces for points on the 
-PVC circular base. After placing them in with hotglue, I went to design pockets that owuld wrap around each of the 3 fingers of the gripper. After designing the pockets, 
-I printed them and press-fit them into each of the fingers.
+better quality settings. After adjusting the TPU, I went to create the CAD models for the parts needed to print. The first parts to design were the TPU pieces for the 
+bottom of the robotic arm to keep it in place. I designed two cylinders at a height of 1mm and cut each into halves to get 4 pieces for the PVC circular base. After 
+placing them with hot glue, I designed pockets that would wrap around each of the 3 gripper fingers. After designing the pockets, I printed and press-fit them into each finger.
 
 Here is the CAD model for the 2 bottom cylindrical pads: 
 
@@ -20,5 +19,7 @@ Here is the CAD model for 1 of the 3-finger gripper pockets:
 <img width="291" height="332" alt="Screenshot 2026-02-17 205011" src="https://github.com/user-attachments/assets/eac00235-805a-4323-85e9-a6718f124afd" />
 
 <img width="300" height="243" alt="image" src="https://github.com/user-attachments/assets/ccc0027c-c3e9-4f13-8f1d-a835b5ddc06a" />
+
+<Add pictures of the bottom of the PVC circular base/ and on the gripper hand with the pockets>
 
 

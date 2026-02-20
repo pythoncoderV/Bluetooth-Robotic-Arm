@@ -22,20 +22,17 @@ Here is the CAD model for 1 of the 3-finger gripper pockets:
 
 This is the final design of the TPU-printed gripper pocket:
 
-![IMG_1668 1](https://github.com/user-attachments/assets/aef9e9af-f85b-4af5-97fb-02175adaeba9)
+<img src="https://github.com/user-attachments/assets/aef9e9af-f85b-4af5-97fb-02175adaeba9" width="250" alt="IMG_1668 1">
 
 These are all 3 of the TPU-printed gripper pockets placed on each of the gripper fingers:
 
-![IMG_1669 1](https://github.com/user-attachments/assets/f6c2d78a-9c62-490b-9bf6-a7fcc7850bcc)
+<img src="https://github.com/user-attachments/assets/f6c2d78a-9c62-490b-9bf6-a7fcc7850bcc" width="250" alt="IMG_1669 1">
 
 This is a picture of 3 half-cylindrical pads placed on the bottom of the PVC circular base with hot-glue
 
-![IMG_1671 1](https://github.com/user-attachments/assets/ab5e52f8-36e5-4aa7-a81c-259a6fd895ac)
+<img src="https://github.com/user-attachments/assets/ab5e52f8-36e5-4aa7-a81c-259a6fd895ac" width="250" alt="IMG_1671 1">
 
 This is where the 4th half-cylindrical pad was placed due to the edge of the enclosure for the robotic arm touching ground level:
 (Refer to Board Management + Enclosure(SERVER).md)
 
-![IMG_1672 1](https://github.com/user-attachments/assets/4a21bd28-1c07-40f8-b392-9c9abd9528f1)
-
-
-
+<img src="https://github.com/user-attachments/assets/4a21bd28-1c07-40f8-b392-9c9abd9528f1" width="250" alt="IMG_1672 1">

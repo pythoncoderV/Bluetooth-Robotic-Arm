@@ -4,8 +4,7 @@ This part of the project was to develop the base of the robotic arm where the wi
 
 This is the link for the part: https://www.homedepot.com/p/NDS-PVC-S-D-Cap-4-in-4P06/100172701
 
-Note: Although the link above is the correct size and part in general to what I used in the final product, I actually purchased a 
-part with a railed bottom, not the solid one from the link.
+Note: Although the link above shows the correct size and shape, I actually purchased the same version but with a railed bottom, not the solid-bottomed one included/pictured. I could not find my version online because I picked it up in person from my local Home Depot.
 
 I then designed a 2 mm tall, 106 mm diameter circular plate that would be mounted onto the servo motor shaft with super glue so I could attach the rest of the arm on top easily:
 <img width="870" height="700" alt="image" src="https://github.com/user-attachments/assets/533bec1d-e415-41b8-823b-daf96bae5168" />

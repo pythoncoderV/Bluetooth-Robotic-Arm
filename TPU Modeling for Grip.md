@@ -20,6 +20,13 @@ Here is the CAD model for 1 of the 3-finger gripper pockets:
 
 <img width="300" height="243" alt="image" src="https://github.com/user-attachments/assets/ccc0027c-c3e9-4f13-8f1d-a835b5ddc06a" />
 
-<Add pictures of the bottom of the PVC circular base/ and on the gripper hand with the pockets>
+![IMG_1668 1](https://github.com/user-attachments/assets/aef9e9af-f85b-4af5-97fb-02175adaeba9)
+
+![IMG_1669 1](https://github.com/user-attachments/assets/f6c2d78a-9c62-490b-9bf6-a7fcc7850bcc)
+
+![IMG_1671 1](https://github.com/user-attachments/assets/ab5e52f8-36e5-4aa7-a81c-259a6fd895ac)
+
+![IMG_1672 1](https://github.com/user-attachments/assets/4a21bd28-1c07-40f8-b392-9c9abd9528f1)
+
 
 

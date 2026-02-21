@@ -7,13 +7,13 @@ Shoulder Construction CAD Model for 3D-printing: https://www.tinkercad.com/thing
 ___________________________________________________________________________________________________________________________________
 3-Finger Gripper Construction CAD Model: https://www.tinkercad.com/things/5Qdoo5D9cre-3-finger-robotic-hand
 
-SERVER/Arm Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/jFY7OoK0D5L-case-fr-serverarm
+SERVER/Arm Case/Enclosure for boards/parts CAD Model: https://www.tinkercad.com/things/jFY7OoK0D5L-case-fr-serverarm
 
 ___________________________________________________________________________________________________________________________________
 
 Modified but taken from Thingiverse (I modified the top cover to add more space inside (Refer to Board Management + Enclosure(CLIENT).md)):
 
-CLIENT/Joystick Remote Case/Enclosure for Parts CAD Model: https://www.tinkercad.com/things/i5cvhJYxiae-joystick-remote-caseclient
+CLIENT/Joystick Remote Case/Enclosure for boards/parts CAD Model: https://www.tinkercad.com/things/i5cvhJYxiae-joystick-remote-caseclient
 
 ___________________________________________________________________________________________________________________________________
 

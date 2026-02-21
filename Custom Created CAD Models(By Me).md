@@ -1,5 +1,5 @@
 These are the Custom CAD models I created myself for this project (These models are in TinkerCAD's browser website):
-___________________________________________________________________________________________________________________________________
+
 Base Construction CAD Model: https://www.tinkercad.com/things/egqu6U74zEA-360-turning-base
 ___________________________________________________________________________________________________________________________________
 Shoulder Construction CAD Model: https://www.tinkercad.com/things/ffeTb6ennbH-arm-shoulder
@@ -20,4 +20,4 @@ ________________________________________________________________________________
 All TPU created models (3-finger gripper pockets + the 2 bottom cylindrical grip pads): 
 
 https://www.tinkercad.com/things/7bJXujVLc1D-tpu-models-for-grip
-___________________________________________________________________________________________________________________________________
+

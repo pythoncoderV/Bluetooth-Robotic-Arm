@@ -10,7 +10,7 @@ better quality settings. After adjusting the TPU, I went to create the CAD model
 bottom of the robotic arm to keep it in place. I designed two cylinders at a height of 1mm and cut each into halves to get 4 pieces for the PVC circular base. After 
 placing them with hot glue, I designed pockets that would wrap around each of the 3 gripper fingers. After designing the pockets, I printed and press-fit them into each finger.
 
-Here is the CAD model for the 2 bottom cylindrical pads: 
+Here is the CAD model for the 2 bottom cylindrical pads (before being cut in halves): 
 
 <img width="311" height="130" alt="image" src="https://github.com/user-attachments/assets/b1f8bb8c-1727-468b-9c8e-47f8646350b7" />
 

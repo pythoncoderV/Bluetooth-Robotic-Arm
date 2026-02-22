@@ -10,7 +10,7 @@ This project is a Bluetooth robotic arm, also known as the “Hoc Diu Tempus Sum
 
 <img src="https://github.com/user-attachments/assets/6dbbf624-d1f9-4d8b-b580-fccc456bd9ae" width="400">
 
-![IMG_1677 1](https://github.com/user-attachments/assets/0e9591d1-2b92-4c77-b393-af6087d88817)
+<img src="https://github.com/user-attachments/assets/0e9591d1-2b92-4c77-b393-af6087d88817" width="400">
 
 <img src="https://github.com/user-attachments/assets/e8d8dca3-c5ae-4d3a-b670-bedd5684446b" width="400">
 

@@ -1,4 +1,4 @@
-POWER MANAGEMENT:
+# POWER MANAGEMENT:
 
 For some of the Client and Server components of the project, there are specific limitations and requirements. 
 

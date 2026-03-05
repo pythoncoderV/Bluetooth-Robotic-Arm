@@ -1,4 +1,6 @@
-TPU MODELING FOR TRACTION/GRIP:
+2/1/25; (The last part of the project)
+
+# TPU MODELING FOR TRACTION/GRIP:
 
 I discovered that the three-finger gripper needed more traction to hold circular objects securely after completing the robotic arm structure. The entire bottom
 of the arm was slick, so it wasn't just the gripper that lacked traction. On level surfaces, the servo case/enclosure and PVC circular base slid easily, needing

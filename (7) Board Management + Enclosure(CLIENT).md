@@ -1,4 +1,4 @@
-Board Management + Enclosure(CLIENT):
+# Board Management + Enclosure(CLIENT):
 
 For the ESP-WROOM-32 joystick remote, I was using an ESP-WROOM-32 microcontroller and a 5-pin 2-axis (x,y) push button joystick. This was the main wiring, but I also wanted to wire a switch to turn the microcontroller off and a battery to power it wirelessly. Due to this, I wanted to 3D-print an enclosure/case for all the electronics to go into and to make it look polished. I was able to find a pre-made model on thingiverse.com of a joystick remote case along with a bit of extra space for microcontrollers and other electronics.
 

@@ -1,4 +1,4 @@
-# NEXT STEPS
+# STEPS AHEAD
 
 For my next steps into making this project better, since I will be continuing to work on it, I will think about many new things I
 can add to the project to make it better. The first thing I could do is modify the systems of control. As of right now I am using a

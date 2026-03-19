@@ -68,9 +68,9 @@ void setup() {
  
   bool connected = SerialBT.connect(masterName);
   if (connected) {
-    Serial.println("✓ Connected!");
+    Serial.println("Connected");
   } else {
-    Serial.println("✗ Connection failed");
+    Serial.println("Connection failed");
   }
 }
 
